@@ -1,0 +1,10 @@
+.Avatar {
+	width : 60px;
+	height: 60px;
+	border-radius: 50%;
+	padding:10px 50px;
+	align-content: justify;
+}
+
+.imgcircle{
+	border-spacing:100px;}
