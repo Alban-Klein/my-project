@@ -1,0 +1,22 @@
+.container {
+	width:700px;
+	margin:0 auto;
+	text-align:center;
+}
+
+.container img{
+	position: center;
+	border-spacing:100px;
+}
+
+a:hover{opacity: 0.5;
+
+}
+#imglist li {
+    list-style-image: url("../../images/batarang.png");
+    text-align: justify;
+}
+
+.container h2,h3{
+	color:#505c7c;
+}

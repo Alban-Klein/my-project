@@ -1,0 +1,22 @@
+.cardbody {
+	padding : 0px, 50px;
+	display: flex;
+	box-shadow:0px 10px 30px rgba(0,0,0,0.2);
+	border-radius:10px;
+	margin: 50px 50px ;	
+	background-color:#fdff00;
+	background-position: cover;
+	align-items: center;
+}
+
+.cardbody img{
+	width: 150px ;
+	border-radius:6px;
+}
+
+.cardbody h3{
+	font-size: 28px;
+	flex-grow: 1;
+	font-color: white;
+
+}
